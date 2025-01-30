@@ -1,0 +1,9 @@
+create a folder
+npm i cmd => jisse package.json file 
+npm i express => for install express
+require express => variable me store kiya
+app.js file create ki
+instance banaege const app = express()
+app.listen 3000 naam se port banaya
+fir browser per jakar localhost://3000 
+routes banaye 
